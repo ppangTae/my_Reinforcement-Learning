@@ -10,6 +10,8 @@
    https://github.com/sfujim/TD3/blob/master/utils.py
 
 The replay buffer for DQN and DDPG is different.
+
 DQN replaybuffer is so slow. because it has many copy.
+
 so, if you want to implement replaybuffer, please use ddpg's replaybuffer
   
