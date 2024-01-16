@@ -1,8 +1,10 @@
 1. DQN
+   
    I refer to the codes below
    1. https://tutorials.pytorch.kr/intermediate/reinforcement_q_learning.html
    2. [minimalRL dqn code](https://github.com/seungeunrho/minimalRL/blob/master/dqn.py)
-2. DDPG
+3. DDPG
+   
    I refer to the code below
    https://github.com/sfujim/TD3/blob/master/utils.py
 
